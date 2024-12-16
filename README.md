@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to find a job to achieve experience 
 - 📫 How to reach me:@sanjujacob04@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am a very quick learner who can adapt to any given situations 
 
 <!---
